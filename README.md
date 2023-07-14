@@ -1,4 +1,4 @@
-# Angular16JestAngularmaterial
+# Angular16 Jest Angular Material using PNPM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4 and Node version 18.16.1
 
